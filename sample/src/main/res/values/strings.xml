@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SlidingCheckLayout</string>
+    <string name="reminder">长按进入滑选</string>
+</resources>
